@@ -1,8 +1,18 @@
-# React + Vite
+<h1 align="center">
+  <img src="https://img.icons8.com/dusk/512/000000/son-goku.png" width="100"><br>
+  Anime Quote Generator
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+  🎉Made using <a href = "https://animechan.xyz/">AnimeChan</a> and Vite + React</a>.<br>
+  🎉Made using <a href = "https://github.com/catppuccin/catppuccin">Catppuccin</a> color scheme.<br>
+</p>
 
-Currently, two official plugins are available:
+<h1>Screenshot:</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/SakethKanchi/Anime-quotes/assets/70198692/924f1d13-0d98-4608-b5bd-971b22af5d93)
+
+
+  
+<h1>Todo:</h1>
+<p>🔨 Scale for mobile devices </p>
